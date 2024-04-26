@@ -1,4 +1,6 @@
 # Reader-Writer-Problem
 I simulated reader writer problem in operating system using python. 
-This repository contains a simulation of the classic reader-writer problem in operating systems, implemented using Python and the Streamlit library. The reader-writer problem is a synchronization problem where multiple processes contend for access to a shared resource, with different behaviors for readers and writers. In this simulation, you can explore how readers and writers interact with the shared resource, showcasing various synchronization techniques and their effects on system performance.
-**To run the file final.py, after running the code write streamlit run final.py in the terminal window.It will directly lead you to the simulation page.**
+
+This repository showcases a simulation of the classic reader-writer problem in operating systems, developed using Python and the Streamlit library. The reader-writer problem is a synchronization challenge where multiple processes compete for access to a shared resource, each with distinct behaviors for readers and writers. Through this simulation, users can explore how readers and writers interact with the shared resource, demonstrating various synchronization techniques and their impact on system performance.
+
+To run the simulation, execute the `final.py` file and then enter `streamlit run final.py` in your terminal window. This command will directly take you to the simulation page, where you can interact with and analyze the behaviors of readers and writers in the system.
